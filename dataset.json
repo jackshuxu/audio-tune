@@ -1,0 +1,11 @@
+{
+    "dataset_type": "audio_dir",
+    "datasets": [
+        {
+            "id": "fullarppack",
+            "path": "/workspace/dataset/Full ARP Pack",
+            "custom_metadata_module": "/workspace/dataset.py"
+        }
+    ],
+    "random_crop": false
+}
